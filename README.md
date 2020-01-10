@@ -1,4 +1,4 @@
-![Image description]()
+![HAXTRIS GUI](https://github.com/ehabhussein/haxtris/blob/master/finalgui.png)
 <pre>
 
 ---------------------
